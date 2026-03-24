@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ذكر</string>
+    <string name="reminder_channel_name">تذكيرات ذكر</string>
+    <string name="reminder_channel_description">تنبيهات الصباح والمساء لتطبيق ذكر</string>
+</resources>
